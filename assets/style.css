@@ -29,7 +29,7 @@ p {
 }
 .btn:hover {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.938), #ffa60098);
-  color: white;
+  color: red;
   box-shadow: 4px 8px 4px #00000033;
 }
 
